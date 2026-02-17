@@ -5,41 +5,32 @@ La interfaz gráfica está construida con HTML, CSS, Bootstrap y el motor de pla
 
 🚀 Funcionalidades
 
-Crear nuevos sorteos
-
-Listar sorteos registrados
-
-Editar información de un sorteo
-
-Eliminar sorteos
-
-Interfaz web responsive con Bootstrap
-
-Integración completa backend–frontend con Thymeleaf
+-Crear nuevos sorteos
+-Listar usuarios registrados
+-Editar información de un usuario
+-Integración completa backend–frontend con Thymeleaf
 
 🛠️ Tecnologías utilizadas
 Backend
+-Java
 
-Java
+-Spring Boot
 
-Spring Boot
+-Spring MVC
 
-Spring MVC
 
-Spring Data JPA
 
-Hibernate
 
 Frontend
 
-HTML5
+-HTML5
 
-CSS3
+-CSS3
 
-Bootstrap
+-Bootstrap
 
-Thymeleaf
+-Thymeleaf
 
 Base de datos
 
-MySQL
+-MySQL
